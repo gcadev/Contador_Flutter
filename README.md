@@ -1,3 +1,3 @@
-# contador_holamundo
+# App Contador
 
 App Contador multiplataforma (iOS/Android)
